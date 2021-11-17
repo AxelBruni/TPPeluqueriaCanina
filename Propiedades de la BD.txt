@@ -1,0 +1,7 @@
+DBMS: MySql
+Nombre: peluqueria_canina
+Usuario: admin
+Contraseña: 1234
+Nombre del servidor: %
+
+nota: la estrategia de generación de tablas es Drop and Create.
